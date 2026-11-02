@@ -1,0 +1,8 @@
+[submodule "nt61-core"]
+	path = nt61-core
+	url = https://github.com/MobtgZhang/nt61-core.git
+	branch = main
+[submodule "nt61-desktop"]
+	path = nt61-desktop
+	url = https://github.com/MobtgZhang/nt61-desktop.git
+	branch = main
